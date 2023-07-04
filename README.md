@@ -9,3 +9,6 @@
 ## 4. Pandas数据统计函数.ipynb
 
 ## 5. Pandas对缺失值的处理.ipynb
+
+## 6.Pandas数据排序.ipynb
+
