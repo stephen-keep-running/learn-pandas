@@ -2,7 +2,9 @@
 
 ## 1. Pandas数据结构.ipynb
 
-<a href="https://gitee.com/slient_7/study-pandas/blob/master/file/notes/1.Pandas数据结构.ipynbb" target="_blank">Pandas数据结构</a>
+[ Pandas数据结构]: file/notes/1.Pandas数据结构.ipynb	"点击查看"
+
+<a href="file/notes/1.Pandas数据结构.ipynb" target="_blank">Pandas数据结构</a>
 
 ## 2. Pandas查询数据.ipynb
 
