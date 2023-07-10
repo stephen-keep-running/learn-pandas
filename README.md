@@ -12,5 +12,9 @@
 >
 > <a href="file/notes/6.Pandas数据排序.ipynb" target="_blank">6.Pandas数据排序</a>
 >
-> <a href="file/notes/7.Pandas字符串操作" target="_blank">7.Pandas字符串操作</a>
+> <a href="file/notes/7.Pandas字符串操作.ipynb" target="_blank">7.Pandas字符串操作</a>
+>
+> <a href="file/notes/8.Pandas的axis参数.ipynb" target="_blank">8.Pandas的axis参数</a>
+>
+> <a href="file/notes/9.Pandas的索引index.ipynb" target="_blank">9.Pandas的索引index</a>
 
