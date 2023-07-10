@@ -4,7 +4,7 @@
 >
 > <a href="file/notes/2.Pandas查询数据.ipynb" target="_blank">2.Pandas查询数据</a>
 >
-> <a href="file/notes/3.pandas新增数据列.ipynb" target="_blank">3.pandas新增数据列</a>
+> <a href="file/notes/3.Pandas新增数据列.ipynb" target="_blank">3.Pandas新增数据列</a>
 >
 > <a href="file/notes/4.Pandas数据统计函数.ipynb" target="_blank">4.Pandas数据统计函数</a>
 >
