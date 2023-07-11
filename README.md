@@ -17,4 +17,8 @@
 > <a href="file/notes/8.Pandas的axis参数.ipynb" target="_blank">8.Pandas的axis参数</a>
 >
 > <a href="file/notes/9.Pandas的索引index.ipynb" target="_blank">9.Pandas的索引index</a>
+>
+> <a href="file/notes/10.Pandas的Merge语法.ipynb" target="_blank">10.Pandas的Merge语法</a>
+>
+> <a href="file/notes/11.Pandas的Concat合并.ipynb" target="_blank">11.Pandas的Concat合并</a>
 
