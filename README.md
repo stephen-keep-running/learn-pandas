@@ -21,4 +21,8 @@
 > <a href="file/notes/10.Pandas的Merge语法.ipynb" target="_blank">10.Pandas的Merge语法</a>
 >
 > <a href="file/notes/11.Pandas的Concat合并.ipynb" target="_blank">11.Pandas的Concat合并</a>
+>
+> <a href="file/notes/12.Pandas批量拆分与合并Excel文件.ipynb" target="_blank">12.Pandas批量拆分与合并Excel文件</a>
+>
+> <a href="file/notes/13.Pandas实现groupby分组统计.ipynb" target="_blank">13.Pandas实现groupby分组统计</a>
 
