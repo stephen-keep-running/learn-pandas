@@ -27,4 +27,6 @@
 > <a href="file/notes/13.Pandas实现groupby分组统计.ipynb" target="_blank">13.Pandas实现groupby分组统计</a>
 >
 > <a href="file/notes/14.Pandas的分层索引MultiIndex.ipynb" target="_blank">14.Pandas的分层索引MultiIndex</a>
+>
+> <a href="file/notes/15.Pandas的数据转换函数map、apply、applymap.ipynb" target="_blank">15.Pandas的数据转换函数map、apply、applymap</a>
 
