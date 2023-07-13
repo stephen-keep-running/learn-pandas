@@ -25,4 +25,6 @@
 > <a href="file/notes/12.Pandas批量拆分与合并Excel文件.ipynb" target="_blank">12.Pandas批量拆分与合并Excel文件</a>
 >
 > <a href="file/notes/13.Pandas实现groupby分组统计.ipynb" target="_blank">13.Pandas实现groupby分组统计</a>
+>
+> <a href="file/notes/14.Pandas的分层索引MultiIndex.ipynb" target="_blank">14.Pandas的分层索引MultiIndex</a>
 
